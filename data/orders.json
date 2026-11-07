@@ -1,0 +1,16 @@
+
+{
+    "Customer_A": ["Laptop", "Mouse", "Keyboard"],
+    "Customer_B": ["Laptop", "Mouse", "Headphones"],
+    "Customer_C": ["Laptop", "Keyboard", "Monitor"],
+    "Customer_D": ["Laptop", "Mouse", "Monitor", "Webcam"],
+    "Customer_E": ["Laptop", "Headphones", "Webcam"],
+    "Customer_F": ["Monitor", "Keyboard", "Mouse"],
+    "Customer_G": ["Headphones", "Mouse", "Speakers"],
+    "Customer_H": ["Laptop", "USB-C Hub", "Mouse"],
+    "Customer_I": ["Monitor", "Webcam", "Microphone"],
+    "Customer_J": ["Keyboard", "Mouse", "Mechanical Keyboard"],
+    "Customer_K": ["Laptop", "Laptop Stand", "External SSD"],
+    "Customer_L": ["Monitor", "Speakers", "Microphone"],
+    "Customer_M": []
+}
