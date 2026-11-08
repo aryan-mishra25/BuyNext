@@ -110,18 +110,8 @@ Execute:
 
 python -m unittest discover -s tests -v
 
-## 10. Interview Topics
 
-- Python dictionaries and lists
-- Nested loops
-- Product co-occurrence
-- Recommendation systems
-- Sorting algorithms
-- JSON data handling
-- Cold-start problem
-- Unit testing
-
-## 11. Future Enhancements
+## 10. Future Enhancements
 
 - Machine learning-based recommendations.
 - User login and registration.
@@ -129,7 +119,7 @@ python -m unittest discover -s tests -v
 - Web-based user interface.
 - Advanced collaborative filtering.
 
-## 12. Conclusion
+## 11. Conclusion
 
 BuyNext demonstrates how purchase history and product
 co-occurrence analysis can be used to develop a
